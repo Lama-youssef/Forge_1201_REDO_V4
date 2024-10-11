@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:cooked_chicken"
+    },
+    {
+      "item": "culturalid:sumac"
+    },
+    {
+      "item": "culturalid:pomegranate"
+    },
+    {
+      "item": "culturalid:pinenuts"
+    },
+    {
+      "item": "culturalid:flatbread"
+    }
+  ],
+  "result": {
+    "item": "culturalid:msakhan"
+  }
+}

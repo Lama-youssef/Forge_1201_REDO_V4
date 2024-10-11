@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "culturalid:sapphire_block"
+    }
+  ],
+  "result": {
+    "item": "culturalid:sapphire",
+    "count": 4
+  }
+}
